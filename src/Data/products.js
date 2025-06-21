@@ -52,7 +52,7 @@ export const productos = [
   {
     id: 8,
     categoria: "Picados De Fruta",
-    nombre: "Picado de furta 1",
+    nombre: "Picado de fruta 1",
     descripcion: "Deliciosos picados en fruta, tenemos picados de MANGO + FREZA + MANZANA VERDE + MANGO RALLADO.",
     imagen: "/img/Picado1.jpg",
     precio: 16000 + "cop",
@@ -60,8 +60,8 @@ export const productos = [
 
   {
     id: 9,
-    categoria: "Picados De Fruta",
-    nombre: "Picado de furta 2",
+    categoria: "Picados De fruta",
+    nombre: "Picado de fruta 2",
     descripcion: "Deliciosos picados en fruta, tenemos picados de MANGO + MANDARINA + FREZA + MANZANA VERDE + SUMO DE MARACUYA. ",
     imagen: "/img/Picado2.jpg",
     precio: 16000 + "cop",
@@ -69,8 +69,8 @@ export const productos = [
 
   {
     id: 10,
-   categoria: "Picados De Fruta",
-    nombre: "Picado de furta 3",
+   categoria: "Picados De fruta",
+    nombre: "Picado de fruta 3",
     descripcion: "Deliciosos picados en fruta, tenemos picados de MANGO + KIWI + TAMARINDO + MAMON + JOBO + MANDARINA + UVAS + FREZA + MANZANA VERDE + SUMO DE MARACUYA.",
     imagen: "/img/Picado3.jpg",
     precio: 20000 + "cop",
@@ -79,7 +79,7 @@ export const productos = [
   {
     id: 11,
    categoria: "Picados De Fruta",
-    nombre: "Picado de furta 1",
+    nombre: "Picado de fruta 1",
     descripcion: "Deliciosos picados en fruta, tenemos picados de MANGO + FREZA + MANZANA VERDE.",
     imagen: "/img/Picado4.jpg",
     precio: 10000 + "cop",
