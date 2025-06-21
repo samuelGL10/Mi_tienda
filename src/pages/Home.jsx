@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <section className="hero slide-in">
         <div className="overlay">
-          <h2>Bienvenido a mi tienda</h2>
+          <h2>BIENVENIDOS A MI TIENDA</h2>
           <p>Explora nuestra variedad de productos para tu hogar y tu cocina</p>
         </div>
       </section>
